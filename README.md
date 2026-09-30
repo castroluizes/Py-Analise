@@ -35,7 +35,7 @@ Este diretório reúne projetos focados em **Análise Estatística Aplicada**, d
 
 | Projeto | Descrição & Escopo | Técnicas Aplicadas | Status |
 | :--- | :--- | :--- | :---: |
-| 📊 **[Análise de Marketing](#)** | Avaliação de campanhas e conversão de clientes. | Teste A/B, Regressão Logística, Correlação | `Concluído` |
+| 📊 **[Análise de Marketing](https://github.com/castroluizes/Py-Analise/tree/main/MP3_AnaliseMarketing)** | Avaliação de campanhas e conversão de clientes. | Teste A/B, Regressão Logística, Correlação | `Concluído` |
 | 📈 **[Análise Exploratória & Distribuições](#)** | Estudo de distribuições de probabilidade e outliers. | Testes de Normalidade, Boxplots, Z-Score | `Em Progresso` |
 | 📉 **[Modelagem Preditiva de Vendas](#)** | Previsão de séries temporais e regressão linear. | Regressão Linear Múltipla, ARIMA, Intervalos de Confiança | `Planejado` |
 
