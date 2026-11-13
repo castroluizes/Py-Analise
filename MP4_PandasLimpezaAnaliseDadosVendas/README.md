@@ -1,6 +1,8 @@
+<div align="center">
+  
 ![Header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&section=header&reversal=false&text=An%C3%A1lise+com+Python&textBg=false&fontSize=76&fontAlign=50&fontAlignY=43&animation=fadeIn&rotate=0&strokeWidth=0&desc=An%C3%A1lise+Explorat%C3%B3ria+de+Dados+de+Vendas+com+Pandas&descSize=30&descAlign=50&descAlignY=64)
 
-<div align="center">
+
   <!-- Badges / Shields.io -->
   <a href="#">
     <img src="https://img.shields.io/badge/Python-3.10+-18181b?style=for-the-badge&logo=python&logoColor=10b981" alt="Python Version" />
