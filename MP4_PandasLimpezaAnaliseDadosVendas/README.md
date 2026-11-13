@@ -19,7 +19,7 @@
 ---
 
 > [!NOTE]
-> **Status do Projeto:** 🟢 Concluído | **Tecnologias:** Python, Pandas, NumPy, Seaborn, Matplotlib, Plotly
+> **Status do Projeto:** 🟡 Em ANdamento | **Tecnologias:** Python, Pandas, NumPy, Seaborn, Matplotlib, Plotly
 
 ## Análise Exploratória de Dados de Vendas com Pandas
 
