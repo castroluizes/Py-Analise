@@ -1,20 +1,7 @@
 <div align="center">
+  
+![Header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&section=header&reversal=false&text=An%C3%A1lise+com+Python&textBg=false&fontSize=76&fontAlign=50&fontAlignY=43&animation=fadeIn&rotate=0&strokeWidth=0&desc=An%C3%A1lise+Explorat%C3%B3ria+de+Dados+de+Vendas+com+Pandas&descSize=30&descAlign=50&descAlignY=64)
 
-  <!-- Banner SVG Integrado (Sem dependências externas) -->
-  <svg viewBox="0 0 800 200" width="100%" height="auto" xmlns="http://www.w3.org/2000/svg">
-    <rect width="800" height="200" rx="12" fill="#18181b"/>
-    <!-- Detalhe decorativo minimalista -->
-    <circle cx="720" cy="40" r="120" fill="#10b981" opacity="0.08"/>
-    <circle cx="760" cy="160" r="80" fill="#059669" opacity="0.12"/>
-    <path d="M 50 140 L 120 110 L 190 125 L 260 80 L 330 95 L 400 50" fill="none" stroke="#10b981" stroke-width="4" stroke-linecap="round" opacity="0.8"/>
-    <circle cx="400" cy="50" r="5" fill="#34d399"/>
-    
-    <!-- Texto do Banner -->
-    <text x="50" y="85" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica" font-size="28" font-weight="700" fill="#ffffff" letter-spacing="-0.5">E-Commerce Data Pipeline</text>
-    <text x="50" y="115" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica" font-size="14" font-weight="400" fill="#a1a1aa">Limpeza, Engenharia de Atributos e EDA Transacional com Pandas</text>
-  </svg>
-
-  <br />
 
   <!-- Badges / Shields.io -->
   <a href="#">
@@ -28,11 +15,15 @@
   </a>
 
   <br />
-  <br />
-
   <sub>Desenvolvido como parte do monorepo de projetos analíticos <a href="https://github.com/castroluizes/Py-Analise"><b>Py-Analise</b></a>.</sub>
-
 </div>
+
+---
+
+> [!NOTE]
+> **Status do Projeto:** 🟡 Em Andamento | **Tecnologias:** Python, Pandas, NumPy, Seaborn, Matplotlib, Plotly
+
+## Análise Exploratória de Dados de Vendas com Pandas
 
 ---
 
